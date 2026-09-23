@@ -1,0 +1,1 @@
+export { FullScreenAd } from "./FullScreenAd";
